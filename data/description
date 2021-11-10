@@ -1,1 +1,5 @@
 This folder has the augmented dataset as well as the non-augmented one. The augmented dataset is named as UNbalanced whereas the other one is named as UNnon_augmented.
+1. UNnon_augmented
+2. UNbalanced for TextBlob based Back Translation(82% accuracy on BERT implementation)
+3. UNbalancedGoogle for Google Translate package based back-translation
+4. UNbalancedPy for Python translate package based back-translation

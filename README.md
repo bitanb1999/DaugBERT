@@ -5,7 +5,7 @@ Establishing causal connections between correlating events lies at the heart of 
 ### Authors: Bitan Biswas, Hanna Béchara, Slava Jankin, Paulina Garcia Corral
 
 #### Note: The data folder has the augmented dataset as well as the non-augmented one. The augmented dataset is named as UNbalanced whereas the other one is named as UNnon_augmented.
-1. UNnon_augmented
-2. UNbalanced for TextBlob based Back Translation(82% accuracy on BERT implementation)
-3. UNbalancedGoogle for Google Translate package based back-translation
-4. UNbalancedPy for Python translate package based back-translation
+1. UNnon_augmented (64% accuracy on BERT implementation)
+2. UNbalanced for TextBlob based Back Translation (82% accuracy on BERT implementation)
+3. UNbalancedGoogle for Google Translate package based back-translation (86% accuracy on BERT)
+4. UNbalancedPy for Python translate package based back-translation (85.2% accuracy on BERT)

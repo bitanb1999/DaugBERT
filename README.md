@@ -9,3 +9,4 @@ Establishing causal connections between correlating events lies at the heart of 
 2. UNbalanced for TextBlob based Back Translation (82% accuracy on BERT implementation)
 3. UNbalancedGoogle for Google Translate package based back-translation (86% accuracy on BERT)
 4. UNbalancedPy for Python translate package based back-translation (85.2% accuracy on BERT)
+The DAugBERT_consolidated_notebook has all the implementations of DAugBERT along with their training and testing accuracy.
